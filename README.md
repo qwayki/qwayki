@@ -1,3 +1,1 @@
 - 👋 Hi, I’m @qwayki
-- 👀 I’m interested in Minecraft
-- 🌱 I’m currently learning Java
